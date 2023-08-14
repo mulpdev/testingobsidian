@@ -1,0 +1,170 @@
+{
+  "main": {
+    "id": "cb1eaf514e6f7b13",
+    "type": "split",
+    "children": [
+      {
+        "id": "908f9ac1836b44c5",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "a045df0032f521fb",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
+            }
+          },
+          {
+            "id": "849c727771d3ad8a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "hi.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "d1f28faa980d249b",
+    "type": "split",
+    "children": [
+      {
+        "id": "bfd04331a2f1cf47",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "edafc8b44dcd0434",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "af255070fd063d39",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "834d398fe03979c9",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "bee5d9149463ded0",
+    "type": "split",
+    "children": [
+      {
+        "id": "5b6225a75cebde2f",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "63c07e4f029b1ac0",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "hi.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "ff23e9d53291b35d",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "hi.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "3757d5f08c53ca81",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "ac2643c0001e1acc",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "hi.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "edafc8b44dcd0434",
+  "lastOpenFiles": [
+    "safetythird.png",
+    "image.png",
+    "folder1/safetythird.png",
+    "folder1/f1safetythird.png",
+    "safetythird.png.md",
+    "hi.md",
+    "testpaste.png.png",
+    "safetythird 1.png",
+    "folder1"
+  ]
+}
